@@ -27,3 +27,18 @@ npm run dev
 ```sh
 npm run build
 ```
+---
+```sh
+npm install bootstrap
+```
+-
+```sh
+mkdir '/usr/local/lib/node_modules/@vue'
+ npm install -g @vue/cli  
+ cd vue                                  
+ npm run dev
+```
+- We add a text, button to enter the tasks of the to-do list at first.
+- We assign the submitTask() function, which we will list the things to do later, to the button and call it create
+- We are designing the edit and delete commands to the text-centers we have added.And 
+- With the editTask() and deleteTask() functions, we can make changes and deletions in the to-do list.
