@@ -34,8 +34,7 @@ npm install bootstrap
 -
 ```sh
 mkdir '/usr/local/lib/node_modules/@vue'
- npm install -g @vue/cli  
- cd vue                                  
+ npm install -g @vue/cli                                   
  npm run dev
 ```
 - We add a text, button to enter the tasks of the to-do list at first.
